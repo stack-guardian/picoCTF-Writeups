@@ -1,18 +1,13 @@
 # picoCTF Writeups
 
-Collection of my picoCTF challenge writeups.
+> My collection of picoCTF solutions. Mostly web stuff, occasionally other categories.
 
 ## Writeups
 
-| Challenge | Category | Points | Link |
-|-----------|----------|--------|------|
-| Expense Tracker | Web Exploitation | - | [Writeup](./web-exploitation/expense-tracker/README.md) |
+| Challenge | Category | Link |
+|-----------|----------|------|
+| No FA | Web Exploitation | [Writeup](./web-exploitation/no-fa/README.md) |
 
-## Categories
+---
 
-- [Web Exploitation](./web-exploitation/)
-- [General Skills](./general-skills/)
-- [Cryptography](./cryptography/)
-- [Forensics](./forensics/)
-- [Binary Exploitation](./binary-exploitation/)
-- [Reverse Engineering](./reverse-engineering/)
+*Built with ☕ and Burp Suite*
