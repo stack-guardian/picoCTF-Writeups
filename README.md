@@ -6,8 +6,8 @@
 
 | Challenge | Category | Link |
 |-----------|----------|------|
+| Crack the Gate 1 | Web Exploitation | [Writeup](./web-exploitation/crack-the-gate-1/README.md) |
 | rescued-float | Web Exploitation | [Writeup](./web-exploitation/rescued-float/README.md) |
-| SSTI1 | Web Exploitation | [Writeup](./web-exploitation/ssti1/README.md) |
 | No FA | Web Exploitation | [Writeup](./web-exploitation/no-fa/README.md) |
 
 ---
