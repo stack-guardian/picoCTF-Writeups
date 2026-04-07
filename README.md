@@ -8,6 +8,7 @@
 
 | Challenge | Points | Link |
 |-----------|--------|------|
+| Cookies | Easy | [Writeup](./web-exploitation/cookies/README.md) |
 | head-dump | Easy | [Writeup](./web-exploitation/head-dump/README.md) |
 | SSTI1 | Easy | [Writeup](./web-exploitation/ssti1/README.md) |
 | Crack the Gate 1 | Easy | [Writeup](./web-exploitation/crack-the-gate-1/README.md) |
