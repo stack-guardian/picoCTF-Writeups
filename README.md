@@ -8,6 +8,8 @@
 
 | Challenge | Points | Link |
 |-----------|--------|------|
+| IntroToBurp | Easy | [Writeup](./web-exploitation/introtoburp/README.md) |
+| Old Sessions | Easy | [Writeup](./web-exploitation/old-sessions/README.md) |
 | Cookies | Easy | [Writeup](./web-exploitation/cookies/README.md) |
 | head-dump | Easy | [Writeup](./web-exploitation/head-dump/README.md) |
 | SSTI1 | Easy | [Writeup](./web-exploitation/ssti1/README.md) |
