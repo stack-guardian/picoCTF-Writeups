@@ -43,4 +43,4 @@
 
 ---
 
-*Built with ☕ and Burp Suite*
+*Built with ☕ and Burp Suite 🚩*
