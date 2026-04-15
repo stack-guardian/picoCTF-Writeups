@@ -11,6 +11,9 @@
 | IntroToBurp | Easy | [Writeup](./web-exploitation/introtoburp/README.md) |
 | Old Sessions | Easy | [Writeup](./web-exploitation/old-sessions/README.md) |
 | Cookies | Easy | [Writeup](./web-exploitation/cookies/README.md) |
+| Inspect HTML | Easy | [Writeup](./web-exploitation/inspect-html/README.md) |
+| Pr3tty c0d3 | Easy | [Writeup](./web-exploitation/pr3tty-c0d3/README.md) |
+| Bookmarklet | Easy | [Writeup](./web-exploitation/bookmarklet/README.md) |
 | head-dump | Easy | [Writeup](./web-exploitation/head-dump/README.md) |
 | SSTI1 | Easy | [Writeup](./web-exploitation/ssti1/README.md) |
 | Crack the Gate 1 | Easy | [Writeup](./web-exploitation/crack-the-gate-1/README.md) |
