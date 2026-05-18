@@ -18,6 +18,7 @@
 | SSTI1 | Easy | [Writeup](./web-exploitation/ssti1/README.md) |
 | Crack the Gate 1 | Easy | [Writeup](./web-exploitation/crack-the-gate-1/README.md) |
 | No FA | Easy | [Writeup](./web-exploitation/no-fa/README.md) |
+| Local Authority | Easy | [Writeup](./web-exploitation/local-authority/README.md) |
 
 ### 🔌 API Testing
 
