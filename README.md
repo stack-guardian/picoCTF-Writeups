@@ -1,4 +1,4 @@
-# picoCTF Writeups
+# CaptureTheFlag Writeups
 
 > My collection of picoCTF solutions. Mostly web stuff, occasionally other categories.
 
