@@ -10,7 +10,7 @@
 |-----------|--------|------|
 | IntroToBurp | Easy | [Writeup](./web-exploitation/introtoburp/README.md) |
 | Old Sessions | Easy | [Writeup](./web-exploitation/old-sessions/README.md) |
-| Cookies | Easy | [Writeup](./web-exploitation/cookies/README.md) |
+| Cookies | Easy | [Writeup](./web-exploitation/cookies-solution/README.md) |
 | Inspect HTML | Easy | [Writeup](./web-exploitation/inspect-html/README.md) |
 | Pr3tty c0d3 | Easy | [Writeup](./web-exploitation/pr3tty-c0d3/README.md) |
 | Bookmarklet | Easy | [Writeup](./web-exploitation/bookmarklet/README.md) |
