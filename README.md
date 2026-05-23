@@ -21,6 +21,7 @@
 | No FA | Easy | [Writeup](./web-exploitation/no-fa/README.md) |
 | Local Authority | Easy | [Writeup](./web-exploitation/local-authority/README.md) |
 | On Includes | Easy | [Writeup](./web-exploitation/on-includes/README.md) |
+| Scavenger Hunt | Easy | [Writeup](./web-exploitation/scavenger-hunt/README.md) |
 
 ### 🔌 API Testing
 
