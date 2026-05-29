@@ -23,6 +23,12 @@
 | On Includes | Easy | [Writeup](./web-exploitation/on-includes/README.md) |
 | Scavenger Hunt | Easy | [Writeup](./web-exploitation/scavenger-hunt/README.md) |
 
+### 🛠️ General Skills
+
+| Challenge | Difficulty | Link |
+|-----------|------------|------|
+| Text Transformations | Easy-Medium | [Writeup](./General%20Skills/text-transformations/README.md) |
+
 ### 🔌 API Testing
 
 | Lab | Platform | Link |
