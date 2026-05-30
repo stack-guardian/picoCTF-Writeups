@@ -23,6 +23,7 @@
 | On Includes | Easy | [Writeup](./web-exploitation/on-includes/README.md) |
 | Scavenger Hunt | Easy | [Writeup](./web-exploitation/scavenger-hunt/README.md) |
 | GET aHEAD | Easy | [Writeup](./web-exploitation/get-ahead/README.md) |
+| dont-use-client-side | Easy | [Writeup](./web-exploitation/dont-use-client-side/README.md) |
 
 ### 🛠️ General Skills
 
