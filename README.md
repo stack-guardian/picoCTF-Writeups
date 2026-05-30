@@ -25,6 +25,8 @@
 | GET aHEAD | Easy | [Writeup](./web-exploitation/get-ahead/README.md) |
 | dont-use-client-side | Easy | [Writeup](./web-exploitation/dont-use-client-side/README.md) |
 | logon | Easy | [Writeup](./web-exploitation/logon/README.md) |
+| Insp3ct0r | Easy | [Writeup](./web-exploitation/insp3ct0r/README.md) |
+| where are the robots | Easy | [Writeup](./web-exploitation/where-are-the-robots/README.md) |
 
 ### 🛠️ General Skills
 
