@@ -24,6 +24,7 @@
 | Scavenger Hunt | Easy | [Writeup](./web-exploitation/scavenger-hunt/README.md) |
 | GET aHEAD | Easy | [Writeup](./web-exploitation/get-ahead/README.md) |
 | dont-use-client-side | Easy | [Writeup](./web-exploitation/dont-use-client-side/README.md) |
+| logon | Easy | [Writeup](./web-exploitation/logon/README.md) |
 
 ### 🛠️ General Skills
 
