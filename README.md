@@ -22,6 +22,7 @@
 | Local Authority | Easy | [Writeup](./web-exploitation/local-authority/README.md) |
 | On Includes | Easy | [Writeup](./web-exploitation/on-includes/README.md) |
 | Scavenger Hunt | Easy | [Writeup](./web-exploitation/scavenger-hunt/README.md) |
+| GET aHEAD | Easy | [Writeup](./web-exploitation/get-ahead/README.md) |
 
 ### 🛠️ General Skills
 
