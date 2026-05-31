@@ -6,28 +6,35 @@
 
 ### 🌐 Web Exploitation
 
+#### 🟢 Easy
+
 | Challenge | Points | Link |
 |-----------|--------|------|
-| IntroToBurp | Easy | [Writeup](./web-exploitation/introtoburp/README.md) |
-| Old Sessions | Easy | [Writeup](./web-exploitation/old-sessions/README.md) |
-| Cookies | Easy | [Writeup](./web-exploitation/cookies/README.md) |
-| Cookie | Easy | [Writeup](./web-exploitation/Cookie/README.md) |
-| Inspect HTML | Easy | [Writeup](./web-exploitation/inspect-html/README.md) |
-| Pr3tty c0d3 | Easy | [Writeup](./web-exploitation/pr3tty-c0d3/README.md) |
-| Bookmarklet | Easy | [Writeup](./web-exploitation/bookmarklet/README.md) |
-| head-dump | Easy | [Writeup](./web-exploitation/head-dump/README.md) |
-| SSTI1 | Easy | [Writeup](./web-exploitation/ssti1/README.md) |
-| Crack the Gate 1 | Easy | [Writeup](./web-exploitation/crack-the-gate-1/README.md) |
-| No FA | Easy | [Writeup](./web-exploitation/no-fa/README.md) |
-| Local Authority | Easy | [Writeup](./web-exploitation/local-authority/README.md) |
-| On Includes | Easy | [Writeup](./web-exploitation/on-includes/README.md) |
-| Scavenger Hunt | Easy | [Writeup](./web-exploitation/scavenger-hunt/README.md) |
-| GET aHEAD | Easy | [Writeup](./web-exploitation/get-ahead/README.md) |
-| dont-use-client-side | Easy | [Writeup](./web-exploitation/dont-use-client-side/README.md) |
-| logon | Easy | [Writeup](./web-exploitation/logon/README.md) |
-| Insp3ct0r | Easy | [Writeup](./web-exploitation/insp3ct0r/README.md) |
-| where are the robots | Easy | [Writeup](./web-exploitation/where-are-the-robots/README.md) |
-| IDOR + Hash Enumeration | Medium | [Writeup](./web-exploitation/idor-hash-enumeration/README.md) |
+| IntroToBurp | Easy | [Writeup](./web-exploitation/Easy/introtoburp/README.md) |
+| Old Sessions | Easy | [Writeup](./web-exploitation/Easy/old-sessions/README.md) |
+| Cookies | Easy | [Writeup](./web-exploitation/Easy/cookies/README.md) |
+| Cookie | Easy | [Writeup](./web-exploitation/Easy/Cookie/README.md) |
+| Inspect HTML | Easy | [Writeup](./web-exploitation/Easy/inspect-html/README.md) |
+| Pr3tty c0d3 | Easy | [Writeup](./web-exploitation/Easy/pr3tty-c0d3/README.md) |
+| Bookmarklet | Easy | [Writeup](./web-exploitation/Easy/bookmarklet/README.md) |
+| head-dump | Easy | [Writeup](./web-exploitation/Easy/head-dump/README.md) |
+| SSTI1 | Easy | [Writeup](./web-exploitation/Easy/ssti1/README.md) |
+| Crack the Gate 1 | Easy | [Writeup](./web-exploitation/Easy/crack-the-gate-1/README.md) |
+| Local Authority | Easy | [Writeup](./web-exploitation/Easy/local-authority/README.md) |
+| On Includes | Easy | [Writeup](./web-exploitation/Easy/on-includes/README.md) |
+| Scavenger Hunt | Easy | [Writeup](./web-exploitation/Easy/scavenger-hunt/README.md) |
+| GET aHEAD | Easy | [Writeup](./web-exploitation/Easy/get-ahead/README.md) |
+| dont-use-client-side | Easy | [Writeup](./web-exploitation/Easy/dont-use-client-side/README.md) |
+| logon | Easy | [Writeup](./web-exploitation/Easy/logon/README.md) |
+| Insp3ct0r | Easy | [Writeup](./web-exploitation/Easy/insp3ct0r/README.md) |
+| where are the robots | Easy | [Writeup](./web-exploitation/Easy/where-are-the-robots/README.md) |
+
+#### 🟡 Medium
+
+| Challenge | Points | Link |
+|-----------|--------|------|
+| No FA | Medium | [Writeup](./web-exploitation/Medium/no-fa/README.md) |
+| IDOR + Hash Enumeration | Medium | [Writeup](./web-exploitation/Medium/idor-hash-enumeration/README.md) |
 
 ### 🛠️ General Skills
 
