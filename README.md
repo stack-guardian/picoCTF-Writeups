@@ -27,6 +27,7 @@
 | logon | Easy | [Writeup](./web-exploitation/logon/README.md) |
 | Insp3ct0r | Easy | [Writeup](./web-exploitation/insp3ct0r/README.md) |
 | where are the robots | Easy | [Writeup](./web-exploitation/where-are-the-robots/README.md) |
+| IDOR + Hash Enumeration | Medium | [Writeup](./web-exploitation/idor-hash-enumeration/README.md) |
 
 ### 🛠️ General Skills
 
