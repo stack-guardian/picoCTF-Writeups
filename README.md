@@ -37,6 +37,7 @@
 | IDOR + Hash Enumeration | Medium | [Writeup](./web-exploitation/Medium/idor-hash-enumeration/README.md) |
 | Secret Box | Medium | [Writeup](./web-exploitation/Medium/secret-box/README.md) |
 | SqlMap1 | 300 | [Writeup](./web-exploitation/Medium/sqlmap1/README.md) |
+| North-South | 100 | [Writeup](./web-exploitation/Medium/north-south/README.md) |
 
 ### 🛠️ General Skills
 
