@@ -36,6 +36,7 @@
 | No FA | Medium | [Writeup](./web-exploitation/Medium/no-fa/README.md) |
 | IDOR + Hash Enumeration | Medium | [Writeup](./web-exploitation/Medium/idor-hash-enumeration/README.md) |
 | Secret Box | Medium | [Writeup](./web-exploitation/Medium/secret-box/README.md) |
+| SqlMap1 | 300 | [Writeup](./web-exploitation/Medium/sqlmap1/README.md) |
 
 ### 🛠️ General Skills
 
