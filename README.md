@@ -38,6 +38,7 @@
 | Secret Box | Medium | [Writeup](./web-exploitation/Medium/secret-box/README.md) |
 | SqlMap1 | 300 | [Writeup](./web-exploitation/Medium/sqlmap1/README.md) |
 | North-South | 100 | [Writeup](./web-exploitation/Medium/north-south/README.md) |
+| Crack the Gate 2 | 200 | [Writeup](./web-exploitation/Medium/crack-the-gate-2/README.md) |
 
 ### 🛠️ General Skills
 
